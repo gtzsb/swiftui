@@ -9,6 +9,12 @@
 - [Tutorials](https://developer.apple.com/tutorials/swiftui/)
 - [WWDC videos](https://developer.apple.com/videos/all-videos/?q=swiftui)
 
+## Hacking with Swift
+
+- [Understanding Swift](https://www.hackingwithswift.com/quick-start/understanding-swift)
+- [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
+- [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)
+
 ## Published applications
 
 - [Animal Crossing Helper](https://github.com/Dimillian/ACHNBrowserUI)
