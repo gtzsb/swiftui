@@ -15,6 +15,11 @@
 - [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
 - [SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)
 
+## Swift by Sundell
+
+- [Basics](https://www.swiftbysundell.com/basics/)
+- [Tips](https://www.swiftbysundell.com/tips/)
+
 ## Published applications
 
 - [Animal Crossing Helper](https://github.com/Dimillian/ACHNBrowserUI)
