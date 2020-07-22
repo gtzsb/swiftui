@@ -20,6 +20,11 @@
 - [Basics](https://www.swiftbysundell.com/basics/)
 - [Tips](https://www.swiftbysundell.com/tips/)
 
+## Fucking
+
+- [Fucking SwiftUI](https://fuckingswiftui.com)
+- [Fucking Closure Syntax](https://fuckingclosuresyntax.com)
+
 ## Published applications
 
 - [Animal Crossing Helper](https://github.com/Dimillian/ACHNBrowserUI)
